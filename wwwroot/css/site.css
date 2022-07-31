@@ -1,0 +1,36 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+hr {
+    opacity: 0;
+}
+
+nav {
+    justify-content: center;
+}
+
+.site-logo {
+    width: 200px;
+    height: 105px;
+}
+
+.op-logo {
+    width: 130px;
+    height: 115px;
+}
